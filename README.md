@@ -185,10 +185,3 @@ PRs are welcome.
 
 ## 📜 License
 MIT License
-
----
-
-## 👨‍💻 Author
-**Emmanuel Gema Kimani (M-tech-cmd)**
-Full Stack Developer • SaaS Builder • PERN Stack
-# FowCraft-Project-Management-SaaS
