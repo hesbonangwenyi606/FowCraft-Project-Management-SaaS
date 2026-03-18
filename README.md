@@ -35,7 +35,6 @@ This project focuses on **real SaaS engineering patterns**, not just CRUD operat
 ## 🧠 Key Features
 
 ### 🏢 Workspace & Organization System
-
 * Multiple workspaces
 * Team member invitations
 * Role-based access
