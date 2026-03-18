@@ -184,7 +184,6 @@ PRs are welcome.
 ---
 
 ## 📜 License
-
 MIT License
 
 ---
