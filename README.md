@@ -47,7 +47,6 @@ This project focuses on **real SaaS engineering patterns**, not just CRUD operat
 * Team collaboration tools
 
 ### 📊 Analytics Dashboard
-
 * Project progress tracking
 * Completion rates
 * Team insights
