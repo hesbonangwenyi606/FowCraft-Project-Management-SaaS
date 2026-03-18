@@ -19,21 +19,17 @@
 ## ✨ Why FowCraft Exists
 
 FowCraft is a full-stack SaaS-style project management platform built to simulate real-world enterprise workflows.
-
 It enables teams to:
-
 * Manage multiple workspaces & organizations
 * Collaborate on projects and tasks
 * Track progress with analytics
 * Automate workflows via background jobs
 * Scale collaboration using modern architecture
-
 This project focuses on **real SaaS engineering patterns**, not just CRUD operations.
 
 ---
 
 ## 🧠 Key Features
-
 ### 🏢 Workspace & Organization System
 * Multiple workspaces
 * Team member invitations
