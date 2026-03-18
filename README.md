@@ -162,7 +162,6 @@ fowcraft/
 ## 🚀 Production-Level Concepts Demonstrated
 
 This project showcases:
-
 * SaaS-style architecture
 * Organization-based data structure
 * Scalable state management
