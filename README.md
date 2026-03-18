@@ -1,4 +1,4 @@
-# 🚀 FowCraft — Project Management SaaS
+#  FowCraft — Project Management SaaS
 ---
 
 ## 🖼️ Preview
