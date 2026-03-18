@@ -52,8 +52,7 @@ This project focuses on **real SaaS engineering patterns**, not just CRUD operat
 * Completion rates
 * Team insights
 
-### 🔐 Authentication & Security
-
+###  Authentication & Security
 * Clerk authentication
 * Organization management
 * Secure session handling
