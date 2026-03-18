@@ -1,9 +1,7 @@
 # 🚀 FowCraft — Project Management SaaS
-
 ---
 
 ## 🖼️ Preview
-
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset1.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset2.png)
 ![image alt](https://github.com/M-tech-cmd/FowCraft/blob/5422e4e7b2e454212fee18ccb666142da5dd07f1/client/src/assets/img/preset3.png)
