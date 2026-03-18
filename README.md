@@ -86,7 +86,6 @@ This architecture mirrors real-world SaaS platforms.
 ---
 
 ## 🛠️ Tech Stack
-
 ### Frontend
 
 * React.js
