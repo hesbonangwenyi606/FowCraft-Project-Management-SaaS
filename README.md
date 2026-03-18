@@ -41,7 +41,6 @@ This project focuses on **real SaaS engineering patterns**, not just CRUD operat
 * Role-based access
 
 ### 📋 Project & Task Management
-
 * Task assignment & due dates
 * Status tracking
 * Team collaboration tools
