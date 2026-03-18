@@ -136,13 +136,9 @@ Open:
 
 ```
 http://localhost:5173
-
-```
-
 ---
 
 ## 📂 Project Structure
-
 ```
 fowcraft/
 ├─ src/
@@ -154,9 +150,6 @@ fowcraft/
 ├─ server/
 ├─ public/
 └─ README.md
-
-```
-
 ---
 
 ## Production-Level Concepts Demonstrated
